@@ -1,0 +1,7 @@
+/home/sangjoon/workspace/dataset/lipread_mp4/ATTACKS/train/ATTACKS_00742.mp4/00000
+/home/sangjoon/workspace/dataset/lipread_mp4/GROWTH/train/GROWTH_00929.mp4/00011
+/home/sangjoon/workspace/dataset/lipread_mp4/GROWTH/train/GROWTH_00929.mp4/00012
+/home/sangjoon/workspace/dataset/lipread_mp4/HEALTH/train/HEALTH_00826.mp4/00007
+/home/sangjoon/workspace/dataset/lipread_mp4/HEALTH/train/HEALTH_00826.mp4/00022
+/home/sangjoon/workspace/dataset/lipread_mp4/HEALTH/train/HEALTH_00826.mp4/00024
+/home/sangjoon/workspace/dataset/lipread_mp4/SIMPLY/train/SIMPLY_00728.mp4/00027
